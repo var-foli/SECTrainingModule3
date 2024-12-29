@@ -1,0 +1,21 @@
+{
+  "name": "chapter5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "//comment": "adding a start and dev script",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "//comment": "^ means can update minor but not major versions, ~ means update only patch versions, nothing means dont update, * means update everything (not the safest)",
+    "date-fns": "^4.1.0",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

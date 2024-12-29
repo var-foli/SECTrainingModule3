@@ -1,0 +1,31 @@
+20241223	17:45:35	dd40e52d-573f-4055-9ac3-4b0e47e9cf79	/new-page.html	GET
+20241223	17:45:35	7312704d-9eae-405f-b0e2-aaced24ecd01	/css/style.css	GET
+20241223	17:45:35	adb1c762-e7d1-4dba-9f3d-f63dc6f0a469	/img/img1.jpg	GET
+20241223	17:46:19	3b539b23-3f5c-4faf-8d51-04d219833df1	/new-page.html	GET
+20241223	17:46:59	4c3457cc-65fa-4d3c-bfc1-49a9f17d6210	/new-page.html	GET
+20241223	17:46:59	ebc7f3aa-0775-4e3e-bab7-4c7ea07e114e	/css/style.css	GET
+20241223	17:46:59	5dd7bdb8-dcbe-433d-a632-b7af65b319e7	/img/img1.jpg	GET
+20241223	17:47:06	a20585a5-aa4d-43e3-8c30-20051b1d9c1a	/	GET
+20241223	17:47:06	fb8ea9f3-f91b-4486-90d2-624f2f2e4a84	/css/style.css	GET
+20241226	16:10:17	7db62a72-e51e-431b-86a4-5398afbaadb4	GET	undefined	/
+20241226	16:10:17	be958246-277c-49bc-859f-4626859aee94	GET	undefined	/css/style.css
+20241226	16:13:08	77744234-abbc-4d5f-aab7-8f626f304927	GET	undefined	/
+20241226	16:13:08	bf838a40-7c37-4d1e-97e5-59f331bd9bbf	GET	undefined	/css/style.css
+20241226	16:16:06	0651be7a-74fe-4a32-b35a-68cf6c96e991	OPTIONS	https://www.google.com	/
+20241226	16:16:06	95ca50ab-42cd-49cf-8c56-3acf582999ec	GET	https://www.google.com	/
+20241226	16:27:30	bdf15f4e-e22b-47f8-9db2-37e7d05bb8c3	OPTIONS	https://www.google.com	/
+20241226	16:27:30	5e0c955a-1bb7-44dd-997e-61ac186ca1e1	GET	https://www.google.com	/
+20241226	16:28:03	bf5679ed-f159-44cf-9b3b-210ff1e5a778	OPTIONS	https://www.google.com	/
+20241226	16:28:03	5be8bd2b-fa21-48b5-a9a9-f854a01ecda1	GET	https://www.google.com	/
+20241226	16:28:53	d40ca122-b219-417c-97c9-1dd3fc564d91	OPTIONS	https://www.google.com	/
+20241226	16:28:53	9ce48246-2a2f-440e-b841-cbaa1d08c9bc	GET	https://www.google.com	/
+20241226	16:30:55	848d8091-8d87-48a5-a83e-8b675077d04a	GET	undefined	/
+20241226	16:32:10	d7212cf6-4995-475f-981b-b2c92c38ed0f	GET	undefined	/
+20241226	16:32:10	d077d93f-4491-4a61-8550-07aa652b905c	GET	undefined	/css/style.css
+20241226	16:38:40	672928d2-cda1-4509-868e-6ff8e095f276	GET	undefined	/
+20241226	16:39:11	c501064d-13f2-4296-8592-028a7a39eebf	GET	undefined	/
+20241226	16:39:11	d82a8c10-a8b9-43a6-a1bc-9e92f14d00ea	GET	undefined	/css/style.css
+20241226	16:40:43	1a8f8cde-a156-4ab0-9793-5a3edc3128d5	GET	undefined	/e
+20241226	16:40:43	cadd9d95-8e42-45aa-805c-6738ac1a9e86	GET	undefined	/css/style.css
+20241226	16:43:01	e3321255-b57d-4e82-a6db-549717e78cb9	GET	undefined	/json
+20241226	16:43:01	ea1efc5b-e0b2-40ef-b082-81492aac74dc	GET	undefined	/css/style.css
