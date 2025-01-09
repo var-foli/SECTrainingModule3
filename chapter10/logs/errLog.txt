@@ -1,0 +1,2 @@
+20241223	17:46:19	83444d33-852c-4796-87b2-13eaa60c0c49	TypeError: fsPromises.readFil is not a function
+20241226	16:38:40	3c370743-04cd-48b2-948b-b82adfb399ad	Error: Not allowed by CORS
